@@ -18,3 +18,7 @@ Proyek ini merupakan proyek praktikum mata kuliah Pemrograman Web menggunakan fr
 
 3. Jalankan server Laravel:
    php artisan serve
+
+## Fitur
+- CRUD data mahasiswa
+- Pengelolaan data mahasiswa
